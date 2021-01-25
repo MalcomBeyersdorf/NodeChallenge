@@ -24,4 +24,4 @@ INSERT INTO currencies (id,description,symbol) VALUES
 INSERT INTO rates (id_currency,value,created_at) VALUES
 	 (1,32351.3,'2021-1-23 17:13:00'),
 	 (2,1285.8,'2021-1-23 17:14:01'),
-	 (3,0.3472,'2021-1-23 17:15:29'),
+	 (3,0.3472,'2021-1-23 17:15:29');
